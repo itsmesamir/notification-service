@@ -1,0 +1,5 @@
+# configuration of gitignore
+# ignore all files in the root directory
+/node_modules
+/dist
+.env

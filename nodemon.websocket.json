@@ -1,0 +1,9 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "ts-node src/websocket/websocket.ts",
+  "env": {
+    "NODE_ENV": "development",
+    "WS_PORT": "3001"
+  }
+}

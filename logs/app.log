@@ -1,0 +1,63 @@
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"New client connected"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Client subscribed to price_update via WebSocket: active {\"price_update\":{}}"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"New client connected"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Client subscribed to price_update via WebSocket: active {\"price_update\":{}}"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"New client connected"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"New client connected"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"info","message":"Subscribing user1234 to price_update"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Client subscribed to price_update via WebSocket: active {\"price_update\":{}}"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user1235 to price_update"}
+{"level":"info","message":"Subscribing user1235 to price_update"}
+{"level":"info","message":"Client disconnected"}
+{"level":"info","message":"New client connected"}
+{"level":"info","message":"Client subscribed to price_update via WebSocket: active {\"price_update\":{}}"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user1237 to price_update"}
+{"level":"info","message":"New client connected"}
+{"level":"info","message":"Subscribing user1237 to price_update"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user1237 to price_update"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user1237 to price_update"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user1237 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Client subscribed to price_update via WebSocket: active {\"price_update\":{}}"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"info","message":"New client connected"}
+{"level":"warn","message":"User user123 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"warn","message":"User user1 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"Subscribing user123 to price_update"}
+{"level":"warn","message":"User user1 is NOT subscribed to price_update. Ignoring WebSocket subscription."}
+{"level":"info","message":"New client connected"}
+{"level":"info","message":"Client subscribed to price_update via WebSocket: active {\"price_update\":{}}"}
